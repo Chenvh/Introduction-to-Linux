@@ -1,13 +1,3 @@
----
-title: Linux入门（更新中）
-date: 2021-05-03 14:40:18
-description: Linux快速入门
-categories: Linux
-tags:  
-		- Linux
-top_img: /img/linux_1.jpg
-cover: /img/linux_1.jpg
----
 
 [更新到](#Linux的文件系统)
 
